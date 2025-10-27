@@ -45,7 +45,7 @@ For questions or feedback, feel free to reach out at contact@flavorhaven.com.
 
 Let me know if you'd like a version with GitHub Pages deployment instructions or badges for technologies used!
 ![Home Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/assets/home.png)
-![About Preview](https://raw.githubusercontent.com/your-username/Restaurant_landing_page/main/assets/about.png)
-![Menu Preview](https://raw.githubusercontent.com/your-username/Restaurant_landing_page/main/assets/menu.png)
-![Contact Preview](https://raw.githubusercontent.com/your-username/Restaurant_landing_page/main/assets/contact.png)
+![About Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/assets/about.png)
+![Menu Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/assets/menu.png)
+![Contact Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/assets/contact.png)
 
