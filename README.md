@@ -44,8 +44,8 @@ cd flavor-haven
 For questions or feedback, feel free to reach out at contact@flavorhaven.com.
 
 Let me know if you'd like a version with GitHub Pages deployment instructions or badges for technologies used!
-![Home Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/PROJECT_1/assets/home.png)
-![About Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/PROJECT_1/assets/about.png)
-![Menu Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/PROJECT_1/assets/menu.png)
-![Contact Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/PROJECT_1/assets/contact.png)
+![Home Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/PROJECT_1/assets/home.png)
+![About Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/PROJECT_1/assets/about.png)
+![Menu Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/PROJECT_1/assets/menu.png)
+![Contact Preview](https://raw.githubusercontent.com/22-sushma/Restaurant_landing_page/main/PROJECT_1/assets/contact.png)
 
